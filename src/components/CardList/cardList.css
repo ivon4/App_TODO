@@ -1,0 +1,56 @@
+* {
+    cursor: url(/src/assets/img/barita-removebg-preview.png), auto;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.newList {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nameList {
+    width: 75%;
+    height: 40px;
+    border-radius: 5px;
+    border-color: #207521;
+    color: #34b433;
+    padding-left: 3%;
+    font-size: 17px;
+    font-weight: bold;
+    border: none;
+}
+
+.nameList::placeholder {
+    color: #34b433;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.btnnewList {
+    width: 22%;
+    height: 40px;
+    background-image: linear-gradient(to right, #5acf59, #228b22);
+    box-shadow: 2px 2px #207521;
+}
+
+.btnnewList:hover {
+    background-image: linear-gradient(to right, #34b433, #207521);
+}
+
+.cardsList {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    width: 100%;
+    border-radius: 7px;
+    gap: 5px;
+}

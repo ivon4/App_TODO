@@ -1,0 +1,23 @@
+footer {
+    background-color: rgba(27, 79, 28, 0.8);
+    border-radius: 5px;
+    padding: 1em 0;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.copyright {
+    width: 69%;
+    font-size: larger;
+    display: flex;
+    justify-content: space-evenly;
+}
