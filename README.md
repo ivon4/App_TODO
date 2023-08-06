@@ -7,6 +7,8 @@ Es una simple aplicacion de To-do creada con ReactJS. Te permite crear, manejar 
 * Html
 * Css
 * Boostrap
+* Node
+* Npm
 
 ## Instalación
 
