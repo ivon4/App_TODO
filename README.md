@@ -1,6 +1,12 @@
-# ej3_slytherin
+# APP_TODO
 
 Es una simple aplicacion de To-do creada con ReactJS. Te permite crear, manejar y localizar tus tareas organizandolas por listas de una manera intuitiva y eficiente.
+## Programas
+* React
+* JavaScript
+* Html
+* Css
+* Boostrap
 
 ## Instalación
 
